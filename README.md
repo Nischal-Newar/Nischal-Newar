@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://helixcry.com/" target="_blank" rel="noreferrer">N
 </h2>
 
 <h3 align="center">
-I'm a Senior Developer
+I'm a Computer Science Grad Student @ George Mason University
 </h3>
 <h4 align="center">
   Full-Stack Developer 💻, 3D Model Designer 🎨, and Machine Learning Enthusiast !
