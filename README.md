@@ -14,7 +14,7 @@ I'm a Senior Developer
 </h4>
 
 <p>
- I think a lot, a better developer & designer and enthusiastic learner.
+ I think a lot, a better developer, designer and enthusiastic learner.
 </p>
 
 ### 🤝 Connect with me:
@@ -26,11 +26,11 @@ I'm a Senior Developer
 
 ## 🔭 I'm currently working on
 
-- OCR implementation
+- Master's Degree
 
 ## 🌱 I'm currently learning
 
-- Python 
+- Machine Learning 
 
 ## 💼 Technical Skills
 
