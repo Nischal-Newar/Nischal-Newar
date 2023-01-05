@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://helixcry.com/" target="_blank" rel="noreferrer">N
 I'm a Computer Science Grad Student @ George Mason University
 </h3>
 <h4 align="center">
-  Full-Stack Developer 💻, 3D Model Designer 🎨, and Machine Learning Enthusiast !
+  Full-Stack Developer 💻, and Machine Learning Enthusiast!
 </h4>
 
 <p>
@@ -24,9 +24,10 @@ I'm a Computer Science Grad Student @ George Mason University
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on Machine learning and Deep Learning challenges and projects.
+## 🔭 I'm currently working on
 
 - Master's Degree
+- Machine learning challenges and project
 
 ## 🌱 I'm currently learning
 
