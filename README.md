@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://helixcry.com/" target="_blank" rel="noreferrer">N
 I'm a Computer Science Grad Student @ George Mason University
 </h3>
 <h4 align="center">
-  Full-Stack Developer 💻, and Machine Learning Enthusiast!
+  💻 Full-Stack Developer and Machine Learning Enthusiast! 💻
 </h4>
 
 <p>
