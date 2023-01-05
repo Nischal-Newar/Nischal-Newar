@@ -24,13 +24,14 @@ I'm a Computer Science Grad Student @ George Mason University
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working on Machine learning and Deep Learning challenges and projects.
 
 - Master's Degree
 
 ## 🌱 I'm currently learning
 
-- Machine Learning 
+- Machine Learning
+- Deep Learning
 
 ## 💼 Technical Skills
 
